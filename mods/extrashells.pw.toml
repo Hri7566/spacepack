@@ -1,0 +1,13 @@
+name = "Tardis Refined: ExtraShells"
+filename = "forge-extra_shells-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JPwgh9iH/versions/Ej9aUSfP/forge-extra_shells-1.1.0.jar"
+hash-format = "sha512"
+hash = "dfc811e86779211152bc706f017f72f6a4306c0a3dd86f57446ae5560f4be7226d27d6f326cb97a8dd9a303b54b886832acfcdf14e04171c25b87ada02c293b2"
+
+[update]
+[update.modrinth]
+mod-id = "JPwgh9iH"
+version = "Ej9aUSfP"

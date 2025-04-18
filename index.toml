@@ -91,6 +91,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "2512c5a1f17499f5db342eea6811ad3f1888d05e4fb8ba56ffbc6348cb75da07"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "ab1b84d121c333006f03959abccb2f12d4dd0cb61c8fe753cea50318d814daca"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
@@ -176,6 +191,16 @@ hash = "d85616e93899be77080aeac6ce9b120eed76dd29981b794722797e2ae07a2f88"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "73d089a80008bfb83e410726e68f279221b9b6113af0d0aa40a71ca730b0500a"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "7bc23290ff3d04851f1ccb2559e6a356cc75b35ac56e10fed4da7b0698772cb9"
 metafile = true
@@ -193,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "4abc98f79235cfc71b6012b0a457df7491c05ae473a67da7b769e7e21bd1d8f6"
 metafile = true
 
 [[files]]
@@ -218,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "151d38474b08a1e370f8820dae5b167971eb9a5f3552823c838a76dd3ab3e1d4"
+metafile = true
+
+[[files]]
+file = "mods/extrashells.pw.toml"
+hash = "701c47bf222f55c64e94e65c2795205116d50dc0cb07164ab228dfd1a2a8dd1e"
 metafile = true
 
 [[files]]
@@ -262,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
 metafile = true
 
 [[files]]
@@ -283,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "8d2954e230da5baa467b2851827aed41e6c7544fd2ddbb581fa177efb2bc0ffb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
@@ -371,6 +411,16 @@ hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "bd236a40e8e29278d9e9dc22017b38fad051fa9c9f18fdfd94e1ab9e14ecf875"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "ad30c4d254b12220608c2cdd56d4aedb34210afa43be9d9c914ae7c3fe3f7d24"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "bf2f88caa86cf5f54de608794fa1ca696e873c9021d2fafbfd694df1fbde695d"
 metafile = true
@@ -383,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
@@ -406,8 +461,13 @@ hash = "7a0091e72314b64b310a1215d6ca5dd100e1a8ad3fbbae33938e1dd4bdd0fab3"
 metafile = true
 
 [[files]]
-file = "mods/respiteful.pw.toml"
-hash = "7c585c9fc5cbd84f1df7aa2ff1c5fd074b1cc9160dab544a44c277115ffc65ac"
+file = "mods/rubidium-extra.pw.toml"
+hash = "817b4a47826bd99c69957fe07131d5704984f89fec96287cdc20c6fbe46100cf"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "a1c202690fef8c74cc7be79c23172be3e6db1993f55efae07cc8c56dca71c639"
 metafile = true
 
 [[files]]
@@ -433,6 +493,36 @@ metafile = true
 [[files]]
 file = "mods/tcintegrations.pw.toml"
 hash = "12874c61a9d634f23a4df8bd330257af8ae74e6942e213ae86cee77ff0d4476b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "6e3b20b2d1af0d1681580879ab0af9d74854d095b273fb3f01d3746118134094"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true
 
 [[files]]
@@ -463,6 +553,16 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "bbec88a5550466b7303b26f32ac82e471474697b590980822b06c6967d418d15"
 metafile = true
 
 [[files]]
