@@ -241,6 +241,11 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "151d38474b08a1e370f8820dae5b167971eb9a5f3552823c838a76dd3ab3e1d4"
 metafile = true
@@ -283,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/icarus.pw.toml"
 hash = "1987b94a60f17384091dae4ab4977330d765e6e336c8454d99b11cebc211a7cb"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -543,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
 metafile = true
 
 [[files]]
