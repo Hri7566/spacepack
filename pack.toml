@@ -1,0 +1,13 @@
+name = "Spacepack"
+author = "Hri7566"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bab505274b7374c27812dfd9959b71df928fac18d5c6d3e2ce599edd86972aa4"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

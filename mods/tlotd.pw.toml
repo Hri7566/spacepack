@@ -1,0 +1,13 @@
+name = "TLOTD"
+filename = "tlotd-0.3.4 - 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/slxGtWWB/versions/Ik6Tjy7J/tlotd-0.3.4%20-%201.20.1.jar"
+hash-format = "sha512"
+hash = "286a320d3556f3874cc6c581a244658513957a2c97e818e2261115b2a4cfe3901de68f708b374f0bf9a1694bb74a82fd23bf118c3f8c40fea0db2ea21d351b14"
+
+[update]
+[update.modrinth]
+mod-id = "slxGtWWB"
+version = "Ik6Tjy7J"

@@ -1,0 +1,13 @@
+name = "Just Stargate Mod"
+filename = "jsg-1.20.1-5.0.6.1-Beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZIPxM9eR/versions/i7B1ZBc8/jsg-1.20.1-5.0.6.1-Beta.jar"
+hash-format = "sha512"
+hash = "79417cbee38e615afbadc8299731177d5d24d9d29b9850b07f2a112cb7bb56c90ef1258b81c6b68c5d76d6a9f283895e099ecc090725e566bff631587d2eefa2"
+
+[update]
+[update.modrinth]
+mod-id = "ZIPxM9eR"
+version = "i7B1ZBc8"
